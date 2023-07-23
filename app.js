@@ -1,5 +1,4 @@
 const express = require("express");
-
 const app = express()
 
 //criar o middleware para receber os dados do corpo da requisição.
